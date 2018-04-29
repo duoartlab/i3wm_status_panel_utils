@@ -1,2 +1,5 @@
+Makefile
+build/
+build/*
 nbproject/
 nbproject/*
